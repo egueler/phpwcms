@@ -1,0 +1,181 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 10pt;
+    margin: 15mm;
+}
+
+input, select, textarea {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+code, pre, tt {
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+td, tr, th, p {
+    font-size: 10pt
+}
+
+ul {
+    margin: 0 0 0 20px;
+}
+
+li {
+    font-size: 11pt;
+    list-style: disc;
+}
+
+a, a:link, a:visited, a:active {
+    color: #000000;
+    text-decoration: underline
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.articleText {
+    text-align: initial;
+}
+
+.articleHead, .articleList_tophead, h1, h2 {
+    font-weight: bold;
+    font-size: 21pt;
+    text-decoration: none;
+    line-height: 120%;
+    color: #000000;
+}
+
+.articleSubHead, .articleList_topsubhead, h3, h4 {
+
+    font-size: 15pt;
+    font-weight: bold;
+    color: #6D7983;
+    line-height: 110%;
+    margin-bottom: 0;
+}
+
+.articleSummary {
+    font-size: 12pt;
+    color: #000000;
+    line-height: 125%;
+    text-align: initial;
+}
+
+.contentHead {
+    font-size: 18pt;
+    font-weight: bold;
+    color: #6D7983;
+    line-height: 110%;
+}
+
+.contentSubHead {
+    font-size: 13pt;
+    color: #000000;
+    line-height: 110%;
+}
+
+.tableHead {
+    font-size: 11pt;
+    font-weight: bold;
+    color: #6D7983;
+    line-height: 13px;
+}
+
+.tableSubHead {
+    font-size: 11pt;
+    color: #000000;
+}
+
+.v09 {
+    font-size: 9pt;
+}
+
+.v10 {
+    font-size: 10pt;
+}
+
+.v11 {
+    font-size: 11pt;
+}
+
+.v12 {
+    font-size: 12pt;
+}
+
+.v13 {
+    font-size: 13pt;
+}
+
+.v14 {
+    font-size: 14pt;
+}
+
+.formButton {
+    font-size: 10pt;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #92A1AF;
+}
+
+.formLabel {
+    font-size: 10pt;
+}
+
+.checkLabel {
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.radioLabel {
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.formTextArea {
+    font-size: 11pt;
+}
+
+.inputText {
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.inputPass {
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.selectMenu {
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.selectList {
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.nav_table, .nav_table a, .nav_table a:link, .nav_table a:active, .nav_table a:visited, .nav_table a:hover {
+    font-size: 10pt;
+    color: #4A5966;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.nav_table_active, .nav_table_active a, .nav_table_active a:link, .nav_table_active a:active, .nav_table_active a:visited, .nav_table_active a:hover {
+    font-size: 10pt;
+    color: #4A5966;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.articleList_toptext {
+    font-size: 10pt;
+}
+
+.articleList_listhead {
+    font-size: 11pt;
+    font-weight: bold;
+}
